@@ -3035,7 +3035,7 @@ textarea.form-control-lg {
   border-color: #ffc800;
 }
 .btn-primary:hover {
-  color: #fff;
+  color: #e9ecef;
   background-color: #d9aa00;
   border-color: #cca000;
 }
@@ -3472,7 +3472,7 @@ textarea.form-control-lg {
 .btn-link {
   font-weight: 400;
   color: #ffc800;
-  text-decoration: underline;
+  text-decoration: none;
 }
 .btn-link:hover {
   color: #cca000;
@@ -6434,7 +6434,7 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #ffc800;
+  color: #e9ecef;
 }
 .link-primary:hover, .link-primary:focus {
   color: #cca000;
